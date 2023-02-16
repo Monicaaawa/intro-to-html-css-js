@@ -53,7 +53,6 @@ A list tag is a tag used to create lists of items. There are two main types of l
     <li>Tennis</li>
 </ul>
 ```
-
 #### ordered list
 ```
 <ol>
@@ -65,4 +64,5 @@ A list tag is a tag used to create lists of items. There are two main types of l
 
 ### Button
 `<button type="button">Click to pat my dog Bond</button>`
+A button tag is used to create buttons on a web page. It is represented by the `<button>` tag
 - For now, nothing will happen when the user clicks the button. To make the button interactive, we need to use more than just HTML. One way to achieve this is by executing a JavaScript function when the button is clicked using the 'onClick' attribute. We will cover this in more detail in the JavaScript section of this workshop.
