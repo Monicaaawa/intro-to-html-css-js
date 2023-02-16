@@ -40,6 +40,7 @@ The `<img>` tag can also include other attributes, such as width and height, to 
 
 ### Link
 `<a href="https://www.youtube.com/watch?v=zAO_Rqkm1CA">Self-Defense</a>`
+
 A link tag defines a hyperlink and is represented by `<a>`. The `href` attribute provides the URL of the target page. When the user clicks on the link, their browser will navigate to that page.
 
 ### List
@@ -64,5 +65,6 @@ A list tag is a tag used to create lists of items. There are two main types of l
 
 ### Button
 `<button type="button">Click to pat my dog Bond</button>`
-A button tag is used to create buttons on a web page. It is represented by the `<button>` tag
+
+A button tag is used to create buttons on a web page. It is represented by the `<button>` tag.
 - For now, nothing will happen when the user clicks the button. To make the button interactive, we need to use more than just HTML. One way to achieve this is by executing a JavaScript function when the button is clicked using the 'onClick' attribute. We will cover this in more detail in the JavaScript section of this workshop.
