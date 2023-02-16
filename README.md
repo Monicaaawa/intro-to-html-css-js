@@ -11,6 +11,6 @@ To create an HTML page, you need to follow a few basic steps:
 
 1. Open your text editor and create a new file.
 2. Save the file with an .html extension (e.g., index.html).
-3. Add the basic structure of an HTML page, which includes the <!DOCTYPE html> declaration and the <html>, <head>, and <body> tags.
-4. Add the content to your page using tags such as <h1> for headings, <p> for paragraphs, <img> for images, and <a> for links.
+3. Add the basic structure of an HTML page, which includes the `<!DOCTYPE html>` declaration and the `<html>`, `<head>`, and `<body>` tags.
+4. Add the content to your page using tags such as `<h1>` for headings, `<p>` for paragraphs, `<img>` for images, and `<a>` for links.
 5. Save your file and open it in a web browser to view the page.
